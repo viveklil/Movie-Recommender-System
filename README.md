@@ -11,3 +11,14 @@ The business objective for us is:
 2:) Predict the rating that a user would give to a movie that he has not yet rated.
 
 3:) Minimize the difference between predicted and actual rating (RMSE and MAPE).
+
+# Modelling :
+The following modelling approach was used in the project:
+
+1:) Loading & exploring the Movie and User ratings data
+
+2:) Creating User-Item Matrix, User-User and Item-Item similarity matrices for Movie Recommendations
+
+3:) Creating feature and applying ML models to predict the ratings for unseen movies for a user
+
+4:) The detailed analysis and model creation can be found in the .ipynb file.
